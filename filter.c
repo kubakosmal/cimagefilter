@@ -5,6 +5,7 @@
 #include "helpers.h"
 
 // jakis komentarz
+// test
 
 int main(int argc, char *argv[])
 {
