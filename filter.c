@@ -4,6 +4,8 @@
 
 #include "helpers.h"
 
+// jakis komentarz
+
 int main(int argc, char *argv[])
 {
 
